@@ -1,1 +1,10 @@
 ./__pycache__/
+__pycache__/getQuote.cpython-310.pyc
+__pycache__/readAudioFile.cpython-310.pyc
+.idea/.gitignore
+.idea/Azurlane-charQuote-automation4GPT-SV.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.DS_Store
